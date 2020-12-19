@@ -1,5 +1,3 @@
-# liendorse
-
 Automatic LinkedIn Endorsement through a Favourites Link.
 
 
